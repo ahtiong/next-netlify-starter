@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to ah tiong website!" />
         <p className="description">
-          <a href="https://cutt.ly/CAnQbPE">Contact Me</a>
+          <a href="https://cutt.ly/CAnQbPE">Contact Us</a>
         </p>
       </main>
 
