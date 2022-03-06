@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          <button type="button">Click Me!</button>
+          <a href="https://cutt.ly/CAnQbPE">link text</a>
         </p>
       </main>
 
